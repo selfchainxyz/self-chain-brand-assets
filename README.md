@@ -1,1 +1,1 @@
-# self-chain-brand-assets
+Repo of Self Chain Branding Assets
